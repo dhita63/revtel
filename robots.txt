@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://miliars77.quotebookapp.com/sitemap.xml
